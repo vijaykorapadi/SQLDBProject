@@ -5,5 +5,6 @@
     [Address] NCHAR(10) NULL, 
     [City] NCHAR(10) NULL, 
     [State] NCHAR(10) NULL, 
-    [Country] NCHAR(10) NULL
+    [Country] NCHAR(10) NULL, 
+    [Active] BIT NULL
 )
